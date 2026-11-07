@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# Book Bloom ✿
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Online Bookstore – React Web Application
 
-## Available Scripts
+Book Bloom is an online bookstore website designed to provide users with a simple and enjoyable experience when browsing and exploring books. Users can discover books, view detailed information, search by title, filter by category, and add their favorite books to a shopping cart.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Home Page:** Introduces the bookstore and displays featured content.
+- **Books Page:** Displays the available books with search and category filtering.
+- **Book Details:** Shows detailed information about each selected book.
+- **Shopping Cart:** Allows users to add books, update quantities, remove books, and view the total price.
+- **About Page:** Provides information about Book Bloom.
+- **Contact Page:** Includes a contact form with a success message.
+- **Responsive Design:** Supports desktop and mobile screen sizes.
+- **Navigation:** Allows users to move easily between the website pages.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Git and GitHub
+- Vercel (Deployment)
 
-### `npm test`
+## Project Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Home
+- Books
+- Book Details
+- About Us
+- Contact Us
+- Shopping Cart
 
-### `npm run build`
+## Installation and Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run this project locally:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/12234251-aya/Book-Bloom.git
+   ```
 
-### `npm run eject`
+2. Navigate to the project folder:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   cd Book-Bloom
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Install the dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Start the development server:
 
-## Learn More
+   ```bash
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Open your browser and visit:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   `http://localhost:3000`
 
-### Code Splitting
+## Live Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Visit the deployed website:
 
-### Analyzing the Bundle Size
+https://book-bloom-lilac.vercel.app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## GitHub Repository
 
-### Making a Progressive Web App
+https://github.com/12234251-aya/Book-Bloom
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Note
 
-### Advanced Configuration
+This project is developed for educational purposes. The shopping cart and contact form work on the frontend. No real payment processing or backend database is currently connected.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Future Improvements
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Add a backend and database.
+- Implement user registration and login.
+- Connect the contact form to a backend service.
+- Add a real payment system.
