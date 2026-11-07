@@ -90,10 +90,10 @@ This project is developed for educational purposes. The shopping cart and contac
 ## Screenshots
 
 ### Home Page
-![Home Page](home.png)
+![Home Page](screenshot/home.png)
 
 ### Books Page
-![Books Page](books.png)
+![Books Page](screenshot/books.png)
 
 ### Shopping Cart
-![Shopping Cart](cart.png)
+![Shopping Cart](screenshot/cart.png)
