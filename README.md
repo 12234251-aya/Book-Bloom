@@ -86,3 +86,14 @@ This project is developed for educational purposes. The shopping cart and contac
 - Implement user registration and login.
 - Connect the contact form to a backend service.
 - Add a real payment system.
+
+## Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Books Page
+![Books Page](books.png)
+
+### Shopping Cart
+![Shopping Cart](cart.png)
